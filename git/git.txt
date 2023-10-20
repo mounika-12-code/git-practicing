@@ -2,4 +2,6 @@
   initialializing
 
 git status 
-for status
+for statu
+
+git log
