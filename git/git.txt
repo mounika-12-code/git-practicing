@@ -5,3 +5,5 @@ git status
 for statu
 
 git log
+ staging diff
+
